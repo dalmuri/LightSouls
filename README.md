@@ -3,6 +3,7 @@
 Dark Souls와 같은 게임을 모바일로 가볍게 구현해본 개인 프로젝트
 - Unreal Engine 5.3 사용
 - Monster Hunter Now의 조작 방식을 참고함
+- Content 폴더는 용량이 큰 관계로 [Google Drive](https://drive.google.com/drive/folders/1rMUDmde-9eoxWlae9M3JYoGqXxvTRgR8?usp=drive_link) 에 넣어둠
 > ![Play1](https://github.com/dalmuri/LightSouls/assets/132140216/36f25bc1-6d6b-4eff-8758-b62340d51ee2)
 
 ## 조작
